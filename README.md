@@ -26,3 +26,13 @@ An application for travellers
 Ecommerce app for Spreecommerce
 - [Github](https://github.com/aviabird/angularspree)
 - [Demo](https://angularspree.firebaseapp.com/)
+
+### Angularhunt
+An app for rating best open source
+- [Github](https://github.com/aviabird/angularhunt)
+- [Demo](https://angularhunt.com/)
+
+### Pinterest clone
+A pinterest clone application
+- [Github](https://github.com/aviabird/pinterest)
+- [Demo](https://ng2-pinwork.firebaseapp.com/)
