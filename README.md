@@ -36,3 +36,8 @@ An app for rating best open source
 A pinterest clone application
 - [Github](https://github.com/aviabird/pinterest)
 - [Demo](https://ng2-pinwork.firebaseapp.com/)
+
+### Angular 2 HN
+A progressive Hacker News client built with Angular
+- [Github](https://github.com/housseindjirdeh/angular2-hn)
+- [Demo](https://angular2-hn.firebaseapp.com/)
