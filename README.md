@@ -12,11 +12,6 @@ A simple math flashcard Progressive Web App
 - [Github](https://github.com/coryrylan/ng-math)
 - [Demo](https://ng-math.firebaseapp.com/)
 
-### Ng-Focus
-A time manager app
-- [Github](https://github.com/coryrylan/ng-focus)
-- [Demo](https://ng-focus.firebaseapp.com/)
-
 ### Yatrum
 An application for travellers
 - [Github](https://github.com/aviabird/yatrum)
