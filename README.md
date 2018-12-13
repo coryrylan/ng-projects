@@ -36,3 +36,18 @@ A pinterest clone application
 A progressive Hacker News client built with Angular
 - [Github](https://github.com/housseindjirdeh/angular2-hn)
 - [Demo](https://angular2-hn.firebaseapp.com/)
+
+### Preserver
+Preserver is desktop notes organiser built on electron, angular2, pouchDB
+- [Github](https://github.com/hsbalar/preserver)
+- [Demo](http://www.hiteshbalar.com/preserver)
+
+### Recursive Form
+Angular recursive form at any level based on your json input.
+- [Github](https://github.com/hsbalar/ngx-recursive-form)
+- [Demo](http://www.hiteshbalar.com/ngx-recursive-form/formx)
+
+### Batcave
+Batcave client is chat app built with Electron and Angular2, Socket.io with RxJS.
+- [Github](https://github.com/hsbalar/batcave)
+- [Demo](http://www.hiteshbalar.com/batcave)
