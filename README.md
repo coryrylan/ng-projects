@@ -57,3 +57,14 @@ Minimus is a weather app built on Angular 8.
 - [Github](https://github.com/hamedbaatour/minimus)
 - [Demo](https://minimus-weather.web.app)
 - [Tutorial](https://bit.ly/2P0c86Z)
+
+
+### Angular 8 Hero Apps
+Angular 8 Example App + Angular CLI + Angular Universal + i18n + Firebase.
+- [Github](https://github.com/Ismaestro/angular8-example-app)
+- [Demo](https://angularexampleapp.com/)
+
+### Blog post management app
+Angular 8 Example App + Angular CLI + Angular Universal + i18n + Firebase.
+- [Github](https://github.com/daixianceng/angular-app-example)
+- [Demo](https://demo.zhaidongxi.com/angular-app-example)
