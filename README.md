@@ -51,3 +51,9 @@ Angular recursive form at any level based on your json input.
 Batcave client is chat app built with Electron and Angular2, Socket.io with RxJS.
 - [Github](https://github.com/hsbalar/batcave)
 - [Demo](http://www.hiteshbalar.com/batcave)
+
+### Minimus
+Minimus is a weather app built on Angular 8.
+- [Github](https://github.com/hamedbaatour/minimus)
+- [Demo](https://minimus-weather.web.app)
+- [Tutorial](https://bit.ly/2P0c86Z)
