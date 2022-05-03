@@ -68,3 +68,8 @@ Angular 8 Example App + Angular CLI + Angular Universal + i18n + Firebase.
 An example app for Angular.
 - [Github](https://github.com/daixianceng/angular-app-example)
 - [Demo](https://demo.zhaidongxi.com/angular-app-example)
+
+### Berbermap
+Save and organize your personal places using Google Maps API, Firebase, Angular + Angular Material.
+- [Github](https://github.com/ooxxro/berbermap)
+- [Demo](https://berbermap.netlify.app)
