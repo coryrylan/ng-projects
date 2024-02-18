@@ -2,6 +2,11 @@
 A list of open source Angular Projects. This list contains a list of Angular (2+) projects. To add
 to this list please provide a pull request with github url, demo url and a short description.
 
+### Angular Headless Hashnode (2024)
+Angular v17 and v16 app for using Hashnode with Angular and transforming your blog.
+- [Github](https://github.com/monacodelisa/angular-headless-hashnode)
+- [Demo](https://angular-hashnode.monacodelisa.com/)
+
 ### Ng-Pokedex
 A Pokedex Progressive Web App
 - [Github](https://github.com/coryrylan/ng-pokedex)
